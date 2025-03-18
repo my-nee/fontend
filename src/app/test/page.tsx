@@ -1,6 +1,4 @@
-import ApiTest from '@/components/ApiTest'
-export default function Home() {
-    return (
-        <ApiTest />
-    );
+// src/app/dashboard/page.tsx
+export default function Dashboard() {
+    return <h1>Dashboard</h1>;
 }
